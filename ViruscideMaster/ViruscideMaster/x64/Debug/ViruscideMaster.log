@@ -1,0 +1,25 @@
+﻿  Application.cpp
+  EndScreen.cpp
+  Game.cpp
+c:\users\jeremy b\source\repos\viruscidemaster\viruscidemaster\game.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LevelSelector.cpp
+  Main.cpp
+c:\users\jeremy b\source\repos\viruscidemaster\viruscidemaster\main.cpp(10): warning C4244: 'argument': conversion from 'const T' to 'const int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MainMenu.cpp
+c:\users\jeremy b\source\repos\viruscidemaster\viruscidemaster\mainmenu.cpp(15): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jeremy b\source\repos\viruscidemaster\viruscidemaster\mainmenu.cpp(20): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+c:\users\jeremy b\source\repos\viruscidemaster\viruscidemaster\game.cpp(330): warning C4715: 'Game::getMovementDirection': not all control paths return a value
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

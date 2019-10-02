@@ -1,0 +1,11 @@
+﻿  Logging.cpp
+c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.cpp(18): warning C4273: 'Logger::Logger': inconsistent dll linkage
+  c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.h(22): note: see previous definition of '{ctor}'
+c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.cpp(26): warning C4273: 'Logger::log': inconsistent dll linkage
+  c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.h(24): note: see previous definition of 'log'
+c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.cpp(34): warning C4273: 'Logger::log': inconsistent dll linkage
+  c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.h(25): note: see previous definition of 'log'
+c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.cpp(39): warning C4273: 'Logger::setMinimumLogLevel': inconsistent dll linkage
+  c:\users\jeremy b\source\repos\viruscidemaster\logging\logging.h(27): note: see previous definition of 'setMinimumLogLevel'
+     Creating library C:\Users\Jeremy B\source\repos\ViruscideMaster\x64\Debug\Logging.lib and object C:\Users\Jeremy B\source\repos\ViruscideMaster\x64\Debug\Logging.exp
+  Logging.vcxproj -> C:\Users\Jeremy B\source\repos\ViruscideMaster\x64\Debug\Logging.dll
